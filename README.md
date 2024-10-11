@@ -1,5 +1,6 @@
 # programming-exercise
 My programming exercise in computational linguistics
+
 Exercise 1 
 Problem: Write a function that takes a string as input and returns the frequency of each word in the string.
 
