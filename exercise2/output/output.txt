@@ -1,0 +1,4 @@
+0	file1.txt	This is an apple.
+1	file2.txt	I have an apple watch.
+2	file1.txt	That is a pear.
+3	file2.txt	They have apple phones.
