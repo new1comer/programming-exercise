@@ -9,5 +9,7 @@ Problem: Write a function that takes two textual files as inputs. The function s
 
 Exercise 4 
 Problem: Download and decompress the file "Dataset_Xiang-Kuperberg_2015.zip". In the decompressed "Dataset_Xiang-Kuperberg_2015.txt" file, you'll find sentences for psycholinguistic experiments. Your task is to prepare these sentences for some deep neural models (e.g., BERT). 
+
 (1)	Write a function replacing the target word (fifth column) in the sentence (third column) with the tag '[MASK]'. Retain all other fields unchanged.
+
 (2)	Write another function randomly select a word in the sentence (third column) and replace it with the tag '[UNK]'. Retain all other fields unchanged.
